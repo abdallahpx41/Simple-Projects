@@ -1,0 +1,8 @@
+c:\users\abdal\onedrive\documents\visual studio 2017\Projects\WEB BR0WSER\WEB BR0WSER\bin\Debug\WEB BR0WSER.exe.config
+c:\users\abdal\onedrive\documents\visual studio 2017\Projects\WEB BR0WSER\WEB BR0WSER\bin\Debug\WEB BR0WSER.exe
+c:\users\abdal\onedrive\documents\visual studio 2017\Projects\WEB BR0WSER\WEB BR0WSER\bin\Debug\WEB BR0WSER.pdb
+c:\users\abdal\onedrive\documents\visual studio 2017\Projects\WEB BR0WSER\WEB BR0WSER\obj\Debug\WEB_BR0WSER.Form1.resources
+c:\users\abdal\onedrive\documents\visual studio 2017\Projects\WEB BR0WSER\WEB BR0WSER\obj\Debug\WEB_BR0WSER.Properties.Resources.resources
+c:\users\abdal\onedrive\documents\visual studio 2017\Projects\WEB BR0WSER\WEB BR0WSER\obj\Debug\WEB BR0WSER.csproj.GenerateResource.Cache
+c:\users\abdal\onedrive\documents\visual studio 2017\Projects\WEB BR0WSER\WEB BR0WSER\obj\Debug\WEB BR0WSER.exe
+c:\users\abdal\onedrive\documents\visual studio 2017\Projects\WEB BR0WSER\WEB BR0WSER\obj\Debug\WEB BR0WSER.pdb
